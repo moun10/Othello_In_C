@@ -36,7 +36,7 @@ $ sudo apt-get install build-essential
 $ sudo apt-get install gcc
 ```
 
-### 3. Check Version
+### 2. Check Version
 
 ```shell
 $ whereis gcc make
